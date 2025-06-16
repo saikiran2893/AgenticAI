@@ -12,3 +12,4 @@ langgraph
 chromadb
 langchain-chroma
 python-dotenv
+duckduckgo_search
