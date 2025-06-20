@@ -18,3 +18,4 @@ pyowm
 google-search-results
 langchain-tavily
 langchain-groq
+gradio
