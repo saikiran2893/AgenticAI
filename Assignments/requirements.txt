@@ -13,3 +13,8 @@ chromadb
 langchain-chroma
 python-dotenv
 duckduckgo_search
+langchain-google-community
+pyowm
+google-search-results
+langchain-tavily
+langchain-groq
